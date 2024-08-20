@@ -34,7 +34,7 @@ I am actively seeking a PhD position starting in Fall 2025, please feel free to 
 
 # 📝 Publications 
 
-## [SaprotHub: Making Protein Modeling Accessible to All Biologists](https://www.biorxiv.org/content/10.1101/2024.05.24.595648v3)
+## [SaprotHub: Making Protein Modeling Accessible to All Biologists](https://www.biorxiv.org/content/10.1101/2024.05.24.595648v3) (Under Review at *Nature Methods*)
 *Jin Su, **Zhikai Li**, Chenchen Han, Yuyang Zhou, Yan He, Junjie Shan, Xibin Zhou, Xing Chang, Dacheng Ma, The OPMC, Martin Steinegger, Sergey Ovchinnikov, Fajie Yuan*
 
 - Developed ColabSaprot and SaprotHub to support scientific research, allowing biologists to easily train and use Protein Language Models. SaprotHub is widely used for protein-related tasks, with wet lab experiments validating its results.
