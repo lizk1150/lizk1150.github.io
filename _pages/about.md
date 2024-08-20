@@ -17,64 +17,76 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+# 🌱 About Me
 
-I hold a Bachelor’s degree in Software Engineering from the Tongji University. During my undergraduate studies, I had the opportunity to work as a research assistant in the Representation Learning Lab at Westlake University, supervised by Prof. Fajie Yuan.
+Currently I am an incoming M.Sc student at [Imperial College London](https://www.imperial.ac.uk/), majoring in Applied Computational Science and Engineering. I hold a B.Eng degree in Software Engineering from [Tongji University](https://www.tongji.edu.cn/). During my undergraduate studies, I had the opportunity to work as a research intern in the [Representation Learning Lab](https://github.com/westlake-repl) at Westlake University, supervised by Prof. [Fajie Yuan](https://fajieyuan.github.io/). My research interest includes Large Language Model and Computer Vision.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I am actively seeking a PhD position starting in Fall 2025, please feel free to send me an email! Please find my CV [here]().
 
 <!--
+
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 -->
 
+
+
 # 📝 Publications 
 
-<!--
+## [SaprotHub: Making Protein Modeling Accessible to All Biologists](https://www.biorxiv.org/content/10.1101/2024.05.24.595648v3)
+*Jin Su, **Zhikai Li**, Chenchen Han, Yuyang Zhou, Yan He, Junjie Shan, Xibin Zhou, Xing Chang, Dacheng Ma, The OPMC, Martin Steinegger, Sergey Ovchinnikov, Fajie Yuan*
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
--->
-
-[SaprotHub: Making Protein Modeling Accessible to All Biologists](https://www.biorxiv.org/content/10.1101/2024.05.24.595648v3)
-
-Jin Su, **Zhikai Li**, Chenchen Han, Yuyang Zhou, Yan He, Junjie Shan, Xibin Zhou, Xing Chang, Dacheng Ma, The OPMC, Martin Steinegger, Sergey Ovchinnikov, Fajie Yuan
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC)
-
- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-
-- I developed ...
-
-- I ...
+- Developed ColabSaprot and SaprotHub to support scientific research, allowing biologists to easily train and use Protein Language Models. SaprotHub is widely used for protein-related tasks, with wet lab experiments validating its results.
 
 
 
-# Project
 
-[Zero-shot SBSR based on CLIP](https://www.biorxiv.org/content/10.1101/2024.05.24.595648v3)
+# 🖥️ Project
+
+## Zero-Shot Sketch-based 3D Model Retrieval based on CLIP
+*Undergraduate thesis at Tongji University, supervised by Prof. [Shuang Liang](https://sse.tongji.edu.cn/info/1211/3213.htm)*
+
+- Using a sketch to retrieve the most relevant 3D model is both intuitive and efficient. However, traditional methods are limited by model performance and dataset quality, making it difficult to generalize to unseen categories. To address this, this work proposes leveraging CLIP's strong generalization capabilities in the field of 3D model sketch retrieval and further enhances the model's zero-shot retrieval performance through improvements in fine-tuning methods and loss functions.
 
 
 
-- 
+## Protein Search base on ESM Protein Language Model
+
+*Developer, supervised by Prof. [Fajie Yuan](https://fajieyuan.github.io/)*
+
+- In biological studies, when a certain class of proteins is found to have desirable properties, we seek to identify other proteins within the same class. Due to the high cost of validating protein properties through wet lab experiments, we intend to first use ESM (a Transformer-based protein language model) to retrieve the most likely target proteins.
+
+
+
+## Protein-Molecule Pair Prediction base on pre-trained LLMs
+
+*Developer, supervised by Prof. [Fajie Yuan](https://fajieyuan.github.io/)*
+
+- Proteins and molecules may have valuable relationships, such as enzymes and substrates in catalytic reactions. The goal of this work is to identify potential protein-molecule pairs with possible relationships by leveraging the representation extraction capabilities of protein(ESM) and molecule(ChemBERTa) language models.
 
 
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Third-class Scholarship for Outstanding Student at Tongji University (2020)
+
+
 
 # 📖 Educations
-- *2024.09 - 2025.9*, M.Sc in Applied Computational Science and Engineering, **Imperial College London**, London, UK. 
-- *2020.09 - 2024.07*, B.Eng in Software Engineering, **Tongji University**, Shanghai, China. 
+- *2024.09 - 2025.09*, M.Sc in Applied Computational Science and Engineering, **Imperial College London**, London, UK. 
+- *2020.09 - 2024.07*, B.Eng in Software Engineering (Machine Intelligence Track), **Tongji University**, Shanghai, China. 
+
+
 
 <!--
+
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 -->
 
+
+
 # 💻 Internships
-- *2023.10 - 2024.09*, Visiting Student, Westlake University, Hangzhou, China.
+- *2023.10 - 2024.09*, Undergraduate Visiting Student, [Representation Learning Lab at Westlake University](https://github.com/westlake-repl), Hangzhou, China.
