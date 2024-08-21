@@ -41,6 +41,14 @@ I am actively seeking a PhD position starting in Fall 2025, please feel free to 
 
 
 
+## ESM-Ezy: A deep learning strategy for the mining of novel multicopper oxidaseswith superior properties (Under Review at *Nature Communications*)
+
+*Hui Qian, Yuxuan Wang, Xibin Zhou, Tao Gu, Hui Wang, Hao Lyu, **ZhikaiLi**, Xiuxu Li, Hluan Zhou, Chengchen Guo, Fajie Yuan, and Yajie Wang*
+
+- In biological studies, when a certain class of proteins is found to have desirable properties, we seek to identify other proteins within the same class. Due to the high cost of validating protein properties through wet lab experiments, we intend to first use ESM (a Transformer-based protein language model) to retrieve the most likely target proteins.
+
+
+
 
 # 🖥️ Project
 
@@ -48,14 +56,6 @@ I am actively seeking a PhD position starting in Fall 2025, please feel free to 
 *Undergraduate thesis at Tongji University, supervised by Prof. [Shuang Liang](https://sse.tongji.edu.cn/info/1211/3213.htm)*
 
 - Using a sketch to retrieve the most relevant 3D model is both intuitive and efficient. However, traditional methods are limited by model performance and dataset quality, making it difficult to generalize to unseen categories. To address this, this work proposes leveraging CLIP's strong generalization capabilities in the field of 3D model sketch retrieval and further enhances the model's zero-shot retrieval performance through improvements in fine-tuning methods and loss functions.
-
-
-
-## Protein Search base on ESM Protein Language Model
-
-*Developer, supervised by Prof. [Fajie Yuan](https://fajieyuan.github.io/)*
-
-- In biological studies, when a certain class of proteins is found to have desirable properties, we seek to identify other proteins within the same class. Due to the high cost of validating protein properties through wet lab experiments, we intend to first use ESM (a Transformer-based protein language model) to retrieve the most likely target proteins.
 
 
 
