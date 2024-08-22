@@ -19,7 +19,7 @@ redirect_from:
 
 # 🌱 About Me
 
-Currently I am an incoming M.Sc student at [Imperial College London](https://www.imperial.ac.uk/), majoring in Applied Computational Science and Engineering. I hold a B.Eng degree in Software Engineering from [Tongji University](https://www.tongji.edu.cn/). During my undergraduate studies, I had the opportunity to work as a research intern in the [Representation Learning Lab](https://github.com/westlake-repl) at Westlake University, supervised by Prof. [Fajie Yuan](https://fajieyuan.github.io/). My research interest includes Large Language Model and Computer Vision.
+Currently I am an incoming M.Sc student at [Imperial College London](https://www.imperial.ac.uk/), majoring in Applied Computational Science and Engineering. I hold a B.Eng degree in Software Engineering from [Tongji University](https://www.tongji.edu.cn/). During my undergraduate studies, I had the opportunity to work as a research intern in the [Representation Learning Lab](https://github.com/westlake-repl) at Westlake University, supervised by Prof. [Fajie Yuan](https://fajieyuan.github.io/).
 
 I am actively seeking a PhD position starting in Fall 2025, please feel free to send me an email! Please find my CV [here](https://github.com/lizk1150/lizk1150.github.io/blob/main/ZhikaiLi_CV.pdf).
 
