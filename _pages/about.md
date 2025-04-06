@@ -34,14 +34,14 @@ I am actively seeking a PhD position starting in Fall 2025, please feel free to 
 
 # 📝 Publications 
 
-## [SaprotHub: Making Protein Modeling Accessible to All Biologists](https://www.biorxiv.org/content/10.1101/2024.05.24.595648v3) (Under Review at *Nature Methods*)
+## [SaprotHub: Making Protein Modeling Accessible to All Biologists](https://www.biorxiv.org/content/10.1101/2024.05.24.595648) (Under Review at *Nature Biotechnology*)
 *Jin Su, **Zhikai Li**, Chenchen Han, Yuyang Zhou, Yan He, Junjie Shan, Xibin Zhou, Xing Chang, Dacheng Ma, The OPMC, Martin Steinegger, Sergey Ovchinnikov, Fajie Yuan*
 
 - Developed ColabSaprot and SaprotHub to support scientific research, allowing biologists to easily train and use Protein Language Models. SaprotHub is widely used for protein-related tasks, with wet lab experiments validating its results.
 
 
 
-## ESM-Ezy: A deep learning strategy for the mining of novel multicopper oxidaseswith superior properties (Under Review at *Nature Communications*)
+## [ESM-Ezy: A deep learning strategy for the mining of novel multicopper oxidaseswith superior properties](https://www.nature.com/articles/s41467-025-58521-y) (*Nature Communications*)
 
 *Hui Qian, Yuxuan Wang, Xibin Zhou, Tao Gu, Hui Wang, Hao Lyu, **Zhikai Li**, Xiuxu Li, Hluan Zhou, Chengchen Guo, Fajie Yuan, and Yajie Wang*
 
